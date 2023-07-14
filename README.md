@@ -17,11 +17,11 @@
 
 ‍💼 I worked as an `Android Development Engineer` for 3 years and a `Data Engineer` for 2 years.
 
-💥 Living on `Music`, `Fiction`, `Coding` and `Sunshine`.
+ Living on `Music`, `Fiction`, `Coding` and `Sunshine`.
 
 </br>
 
-## ⚡ Currently working on 
+## 💥 Currently working on 
 - [Online-Library](https://github.com/orgs/CodeMagician0/repositories) - Collaborate with [Siuyunyip](https://github.com/siuyunyip), a
 Full Stack + DevOps project using `React`, `Springboot`, `Mysql`, and `Jenkins`.
 - [Decentralized-Social-Media](https://github.com/orgs/CodeMagician0/repositories), a decetralized social media build on IPFS, using `React`, `Web3.js`, `Solidity`, `Hardhat`, and `Web3.Storage`.
