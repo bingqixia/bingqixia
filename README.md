@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bingqi ()</h1>
+<h1 align="center"> 👋 Hi, I'm Bingqi</h1>
 
 <h3 align="center">A Passionate Software Developer <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" height="30px" width="30px"> </h3>
 
@@ -13,11 +13,11 @@
 <br/>
 
 ## 🎃 About Me
-🎓 I'm now studying for Master in Computer Science at Trinity College Dublin, Ireland.
+🎓 I'm now studying for `Master in Computer Science` at Trinity College Dublin, Ireland.
 
-‍💼 I have worked as an Android Development Engineer for 3 years and a Data Engineer for 2 years.
+‍💼 I have worked as an `Android Development Engineer` for 3 years and a `Data Engineer` for 2 years.
 
-💥 Living on music, fiction, coding and sunshine
+💥 Living on `music`, `fiction`, `coding` and `sunshine`
 
 </br>
 
@@ -26,9 +26,13 @@
 Full Stack + DevOps project using `React`, `Springboot`, `Mysql`, and `Jenkins`.
 - [Decentralized-Social-Media](https://github.com/orgs/CodeMagician0/repositories), a decetralized social media build on IPFS, using `React`, `Web3.js`, `Solidity`, `Hardhat`, and `Web3.Storage`.
 
+</br>
+
 ## 👩🏻‍💻 Technologies That I Know
 
 Here are a few things I've picked up along my learning journey.
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - Programming languages : <br />
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)
@@ -69,15 +73,7 @@ Here are a few things I've picked up along my learning journey.
 
 </br>
 
-## 📊 Github Stats
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/Pookii/Pookii/blob/main/resources/img/pookii-contribution-snake.svg"
-       alt="snake" /></a>
-</div>
-
-</br>
+## 📊 GitHub Analytics
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -109,3 +105,9 @@ Here are a few things I've picked up along my learning journey.
 <!--- trophy (start) -->
 </p>        
 <!--- stats (end) -->
+</br>
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/Pookii/Pookii/blob/main/resources/pookii-contribution-snake.svg"
+       alt="snake" /></a>
+</div>
