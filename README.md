@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I'm Bingqi</h1>
 
-<h3 align="center">A Passionate Software Developer <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" height="30px" width="30px"> </h3>
+<h3 align="center">A Passionate Software Developer <img src="https://github.com/Pookii/Pookii/blob/main/resources/mona-heart.gif" height="30px" width="30px"> </h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/-bingqi.xia@gmail.com-f7d162?style=flat-square&logo=gmail&logoColor=EA4335"/>
