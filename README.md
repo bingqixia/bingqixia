@@ -63,9 +63,11 @@ Here are a few things I've picked up along my learning journey.
 
 
 - Data Engineering : <br />
+![Apache Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat&logo=Apache+Hadoop&logoColor=ffe200)
+![Apache Hive](https://img.shields.io/badge/-Hive-05122A?style=flat&logo=Apache+Hive&logoColor=ffe200)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=e4692f)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![Apache Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat&logo=Apache+Hadoop&logoColor=ffe200)
+![ETL](https://img.shields.io/badge/-ETL-05122A?style=flat)
 
 - Other : <br />
 ![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum&logoColor=2aae2a)
