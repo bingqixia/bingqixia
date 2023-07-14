@@ -13,11 +13,11 @@
 <br/>
 
 ## 🎃 About Me
-🎓 I'm now studying for `Master in Computer Science` at Trinity College Dublin, Ireland.
-
-‍💼 I worked as an `Android Development Engineer` for 3 years and a `Data Engineer` for 2 years.
-
-🌱 Living on `Music`, `Fiction`, `Coding` and `Sunshine`.
+- 🎓 I'm now studying for `Master in Computer Science` at Trinity College Dublin, Ireland.‍
+  
+- 💼 I worked as an `Android Development Engineer` for 3 years and a `Data Engineer` for 2 years.
+  
+- 🌱 Living on `Music`, `Fiction`, `Coding` and `Sunshine`.
 
 </br>
 
@@ -70,6 +70,8 @@ Here are a few things I've picked up along my learning journey.
 - Other : <br />
 ![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum&logoColor=2aae2a)
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity&logoColor=9d9d9d)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Extreme Programming](https://img.shields.io/badge/-Extreme%20Programming-05122A?style=flat&logo=extreme+programming)
 
 </br>
 
