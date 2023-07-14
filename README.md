@@ -32,7 +32,7 @@ Full Stack + DevOps project using `React`, `Springboot`, `Mysql`, and `Jenkins`.
 
 Here are a few things I've picked up along my learning journey.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/Pookii/Pookii/blob/main/resources/Night-Coding.gif" align="right"/>
 
 - Programming languages : <br />
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)
