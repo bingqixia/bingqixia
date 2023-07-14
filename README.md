@@ -15,9 +15,9 @@
 ## 🎃 About Me
 🎓 I'm now studying for `Master in Computer Science` at Trinity College Dublin, Ireland.
 
-‍💼 I have worked as an `Android Development Engineer` for 3 years and a `Data Engineer` for 2 years.
+‍💼 I worked as an `Android Development Engineer` for 3 years and a `Data Engineer` for 2 years.
 
-💥 Living on `music`, `fiction`, `coding` and `sunshine`
+💥 Living on `Music`, `Fiction`, `Coding` and `Sunshine`.
 
 </br>
 
@@ -105,9 +105,9 @@ Here are a few things I've picked up along my learning journey.
 <!--- trophy (start) -->
 </p>        
 <!--- stats (end) -->
-</br>
+<!-- </br> -->
 <!--- snake -->
-<div align="center">
+<!-- <div align="center">
   <img  src="https://github.com/Pookii/Pookii/blob/main/resources/pookii-contribution-snake.svg"
        alt="snake" /></a>
-</div>
+</div> -->
