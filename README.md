@@ -24,7 +24,7 @@
 ## 💥 Currently Working on 
 - [Online-Library](https://github.com/orgs/CodeMagician0/repositories) - Collaborate with [Siuyunyip](https://github.com/siuyunyip), a
 Full Stack + DevOps project using `React`, `Springboot`, `Mysql`, and `Jenkins`.
-- [Decentralized-Social-Media](https://github.com/orgs/CodeMagician0/repositories), a decetralized social media built on IPFS, using `React`, `Web3.js`, `Solidity`, `Hardhat`, and `Web3.Storage`.
+- [Decentralized-Social-Media](https://github.com/orgs/CodeMagician0/repositories), a decetralized social media built on Ethereum and IPFS, using `React`, `Web3.js`, `Solidity`, `Hardhat`, and `Web3.Storage`.
 
 </br>
 
@@ -57,18 +57,18 @@ Here are a few things I've picked up along my learning journey.
 
 
 - DevOps : <br />
-![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains)
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins&logoColor=eae0c6)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=ff8800)
 
 
 - Data Engineering : <br />
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=amazon)
-![Apache Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat&logo=Apache+Hadoop&logoColor=f4cf0f)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=e4692f)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![Apache Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat&logo=Apache+Hadoop&logoColor=ffe200)
 
 - Other : <br />
-![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum&logoColor=d9c7fc)
+![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum&logoColor=2aae2a)
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity&logoColor=9d9d9d)
 
 </br>
