@@ -1,11 +1,11 @@
 <h1 align="center"> 👋 Hi, I'm Bingqi</h1>
 
-<h3 align="center">A Passionate Software Developer <img src="https://github.com/Pookii/Pookii/blob/main/resources/mona-heart.gif" height="30px" width="30px"> </h3>
+<h3 align="center">A Passionate Software Developer <img src="https://github.com/bingqixia/bingqixia/blob/main/resources/mona-heart.gif" height="30px" width="30px"> </h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/-bingqi.xia@gmail.com-f7d162?style=flat-square&logo=gmail&logoColor=EA4335"/>
     <img src="https://img.shields.io/badge/- She / Her / Hers-1a9e9f?style=flat-square" />
-    <img src="https://komarev.com/ghpvc/?username=pookii&label=Visitors&color=e56160&style=flat-square" alt="Pookii" />
+    <img src="https://komarev.com/ghpvc/?username=bingqixia&label=Visitors&color=e56160&style=flat-square" alt="bingqixia" />
     <!-- https://visitor-badge.glitch.me/ -->
     <!-- https://github.com/Nathan13888/VisitorBadgeReloaded#-migrating-from-visitor-badge -->
 </p>
@@ -32,7 +32,7 @@ Full Stack + DevOps project using `React`, `Springboot`, `Mysql`, and `Jenkins`.
 
 Here are a few things I've picked up along my learning journey.
 
-<img alt="Night Coding" src="https://github.com/Pookii/Pookii/blob/main/resources/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/bingqixia/bingqixia/blob/main/resources/Night-Coding.gif" align="right"/>
 
 - Programming languages : <br />
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)
@@ -86,14 +86,14 @@ Here are a few things I've picked up along my learning journey.
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pookii&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=bingqixia&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pookii&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bingqixia&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pookii&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bingqixia&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"/>
   
   </td>
 </tr>
@@ -103,7 +103,7 @@ Here are a few things I've picked up along my learning journey.
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?username=pookii&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=bingqixia&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
@@ -112,6 +112,6 @@ Here are a few things I've picked up along my learning journey.
 <!-- </br> -->
 <!--- snake -->
 <!-- <div align="center">
-  <img  src="https://github.com/Pookii/Pookii/blob/main/resources/pookii-contribution-snake.svg"
+  <img  src="https://github.com/bingqixia/bingqixia/blob/main/resources/bingqixia-contribution-snake.svg"
        alt="snake" /></a>
 </div> -->
