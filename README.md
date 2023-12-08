@@ -22,7 +22,7 @@
 </br>
 
 ## 💥 Currently Working on 
-- [Online-Library](https://github.com/orgs/CodeMagician0/repositories) - Collaborate with [Siuyunyip](https://github.com/siuyunyip), a
+- [Online-Library](https://github.com/orgs/CodeMagician0/repositories), a
 Full Stack + DevOps project using `React`, `Springboot`, `Mysql`, and `Jenkins`.
 - [Decentralized-Social-Media](https://github.com/orgs/CodeMagician0/repositories), a decetralized social media built on Ethereum and IPFS, using `React`, `Web3.js`, `Solidity`, `Hardhat`, and `Web3.Storage`.
 
