@@ -13,18 +13,15 @@
 <br/>
 
 ## 🎃 About Me
-- 🎓 I'm now studying for `Master in Computer Science` at Trinity College Dublin, Ireland.‍
+- 💥 I have recently been working on coding related to routing protocols.
   
-- 💼 I worked as an `Android Development Engineer` for 3 years and a `Data Engineer` for 2 years.
+- 😭 Learning C++ is making me lose my hair.
+  
+- ✅ 5 years of software engineering experience, Master of Computer Science. 
   
 - 🌱 Living on `Music`, `Fiction`, `Coding` and `Sunshine`.
 
-</br>
-
-## 💥 Currently Working on 
-- [Online-Library](https://github.com/orgs/CodeMagician0/repositories), a
-Full Stack + DevOps project using `React`, `Springboot`, `Mysql`, and `Jenkins`.
-- [Decentralized-Social-Media](https://github.com/orgs/CodeMagician0/repositories), a decetralized social media built on Ethereum and IPFS, using `React`, `Web3.js`, `Solidity`, `Hardhat`, and `Web3.Storage`.
+- 🥰 I love cats
 
 </br>
 
