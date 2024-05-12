@@ -13,15 +13,11 @@
 <br/>
 
 ## 🎃 About Me
-- 💥 I have recently been working on coding related to routing protocols.
+- 💥 Currently working on Resource Reservation Protocol with C++.
   
-- 😭 Learning C++ is making me lose my hair.
-  
-- ✅ 5 years of software engineering experience, Master of Computer Science. 
+- 👣 5 years of software engineering experience, Master of Computer Science. 
   
 - 🌱 Living on `Music`, `Fiction`, `Coding` and `Sunshine`.
-
-- 🥰 I love cats
 
 </br>
 
