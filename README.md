@@ -13,9 +13,6 @@
 <br/>
 
 ## 🎃 About Me
-- 💥 Currently working on Resource Reservation Protocol with C++.
-  
-- 👣 5 years of software engineering experience, Master of Computer Science. 
   
 - 🌱 Living on `Music`, `Fiction`, `Coding` and `Sunshine`.
 
